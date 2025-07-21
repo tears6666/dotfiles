@@ -1,1 +1,1 @@
--- Here's my hyprland dotconfig arch linux! --
+-- Here's my hyprland dotconfig for arch linux! --
